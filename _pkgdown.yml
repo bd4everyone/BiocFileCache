@@ -1,0 +1,7 @@
+title: BiocFileCache
+url: https://bioconductor.github.io/BiocFileCache
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: flatly
